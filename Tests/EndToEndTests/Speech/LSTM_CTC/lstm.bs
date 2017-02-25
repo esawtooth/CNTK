@@ -48,7 +48,7 @@ speechTrain = [
                 input = [
                     labels = [
                         alias = "l"
-                        dim = 132
+                        dim = 133
                         format = "sparse"
                     ]
                 ]
